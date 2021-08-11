@@ -4,7 +4,7 @@
 
 * [Form1.cs](./CS/WinformsExport/Form1.cs) ([Form1.vb](./VB/WinformsExport/Form1.vb))
 
-# WinForms - How to Print the Pivot and Chart Controls to a Single Document
+# WinForms - How to Print Pivot and Chart Controls to a Single Document
 
 The following example shows how to print to a single document the Pivot Grid component [integrated](https://docs.devexpress.com/WindowsForms/8748/controls-and-libraries/pivot-grid/data-analysis/integration-with-the-chart-control) with the Chart. 
 
