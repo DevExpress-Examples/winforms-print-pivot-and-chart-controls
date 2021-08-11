@@ -27,8 +27,7 @@ namespace WinFormsExport {
             excelDataSource1.FillAsync();
         }
 
-        private CompositeLink CreateCompositeLink(PivotGridControl pivotGridControl1, ChartControl chartControl1)
-        {
+        private CompositeLink CreateCompositeLink(PivotGridControl pivotGridControl1, ChartControl chartControl1) {
             PrintableComponentLink pivotLink = new PrintableComponentLink();
             pivotLink.Component = pivotGridControl1;
             PrintableComponentLink chartLink = new PrintableComponentLink();
@@ -51,6 +50,5 @@ namespace WinFormsExport {
             CompositeLink compositeLink = CreateCompositeLink(pivotGridControl1, chartControl1);
             compositeLink.ShowPreview();
         }
-
     }
 }
