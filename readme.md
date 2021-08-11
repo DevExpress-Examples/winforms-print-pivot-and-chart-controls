@@ -9,6 +9,8 @@
 The following example shows how to print to a single document the Pivot Grid component [integrated](https://docs.devexpress.com/WindowsForms/8748/controls-and-libraries/pivot-grid/data-analysis/integration-with-the-chart-control) with the Chart. 
 
 
+![PrintPreview](images/printpreview.png)
+
 ## Documentation
 
 * [Integration with the Chart Control](https://docs.devexpress.com/WindowsForms/8748/controls-and-libraries/pivot-grid/data-analysis/integration-with-the-chart-control)
