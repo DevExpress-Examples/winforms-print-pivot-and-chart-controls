@@ -2,7 +2,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Form1.cs](./CS/WinFormsExport/Form1.cs) ([Form1.vb](./VB/WinFormsExport/Form1.vb))
+* [Form1.cs](./CS/WinformsExport/Form1.cs) ([Form1.vb](./VB/WinformsExport/Form1.vb))
 
 # WinForms - How to Print the Pivot and Chart Controls to a Single Document
 
