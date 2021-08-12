@@ -50,6 +50,5 @@ Namespace WinFormsExport
 			Dim compositeLink As CompositeLink = CreateCompositeLink(pivotGridControl1, chartControl1)
 			compositeLink.ShowPreview()
 		End Sub
-
 	End Class
 End Namespace
