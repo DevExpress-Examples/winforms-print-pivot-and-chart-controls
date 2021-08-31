@@ -4,16 +4,19 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 
-<!-- default file list -->
-*Files to look at*:
-
-* [Form1.cs](./CS/WinformsExport/Form1.cs) ([Form1.vb](./VB/WinformsExport/Form1.vb))
 
 # WinForms - How to Print a Document that Contains Pivot and Chart Controls
 
 The following example shows how to print a document that contains a Pivot Grid control with an [integrated](https://docs.devexpress.com/WindowsForms/8748/controls-and-libraries/pivot-grid/data-analysis/integration-with-the-chart-control) Chart:
 
 ![PrintPreview](images/printpreview.png)
+
+
+<!-- default file list -->
+## Files to look At
+
+* [Form1.cs](./CS/WinformsExport/Form1.cs) ([Form1.vb](./VB/WinformsExport/Form1.vb))
+<!-- default file list end -->
 
 ## Documentation
 
