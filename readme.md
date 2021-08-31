@@ -13,7 +13,7 @@ The following example shows how to print a document that contains a Pivot Grid c
 
 
 <!-- default file list -->
-## Files to look At
+## Files to Look At
 
 * [Form1.cs](./CS/WinformsExport/Form1.cs) ([Form1.vb](./VB/WinformsExport/Form1.vb))
 <!-- default file list end -->
