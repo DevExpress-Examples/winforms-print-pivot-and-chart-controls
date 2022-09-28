@@ -20,11 +20,9 @@ The following example shows how to print a document that contains a Pivot Grid c
 
 ## Documentation
 
-* [Integration with the Chart Control](https://docs.devexpress.com/WindowsForms/8748/controls-and-libraries/pivot-grid/data-analysis/integration-with-the-chart-control)
-
-* [How to: Combine Links via the CompositeLink](https://docs.devexpress.com/WindowsForms/174/controls-and-libraries/printing-exporting/examples/using-printing-links/how-to-combine-links-via-the-compositelink?p=netframework)
-
-* [Pivot Charting (Integration with a Pivot Grid Control)](https://docs.devexpress.com/WindowsForms/8695/controls-and-libraries/chart-control/provide-data/pivot-charting-integration-with-a-pivot-grid-control?p=netframework)
+- [Integration with the Chart Control](https://docs.devexpress.com/WindowsForms/8748/controls-and-libraries/pivot-grid/data-analysis/integration-with-the-chart-control)
+- [How to: Combine Links via the CompositeLink](https://docs.devexpress.com/WindowsForms/174/controls-and-libraries/printing-exporting/examples/using-printing-links/how-to-combine-links-via-the-compositelink?p=netframework)
+- [Pivot Charting (Integration with a Pivot Grid Control)](https://docs.devexpress.com/WindowsForms/8695/controls-and-libraries/chart-control/provide-data/pivot-charting-integration-with-a-pivot-grid-control?p=netframework)
 
 ## More Examples
 
