@@ -13,7 +13,7 @@ The following example shows how to print a document that contains a Pivot Grid c
 
 
 <!-- default file list -->
-## Files to Look At
+## Files to Review
 
 * [Form1.cs](./CS/WinformsExport/Form1.cs) ([Form1.vb](./VB/WinformsExport/Form1.vb))
 <!-- default file list end -->
@@ -25,3 +25,8 @@ The following example shows how to print a document that contains a Pivot Grid c
 * [How to: Combine Links via the CompositeLink](https://docs.devexpress.com/WindowsForms/174/controls-and-libraries/printing-exporting/examples/using-printing-links/how-to-combine-links-via-the-compositelink?p=netframework)
 
 * [Pivot Charting (Integration with a Pivot Grid Control)](https://docs.devexpress.com/WindowsForms/8695/controls-and-libraries/chart-control/provide-data/pivot-charting-integration-with-a-pivot-grid-control?p=netframework)
+
+## More Examples
+
+- [Pivot Grid for WinForms - Visualize the Pivot Grid data in the Chart Control](https://github.com/DevExpress-Examples/how-to-visualize-pivot-grid-data-via-the-xtracharts-suite-e2911)
+- [Pivot Grid for WinForms - Сustomize Сells in the Exported Excel Document](https://github.com/DevExpress-Examples/winforms-pivotgrid--customize-cells-in-the-exported-excel-document)
