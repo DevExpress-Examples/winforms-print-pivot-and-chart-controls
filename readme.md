@@ -5,7 +5,7 @@
 <!-- default badges end -->
 
 
-# WinForms - How to Print a Document that Contains Pivot and Chart Controls
+# WinForms - How to Print a Document that Contains Pivot Grid and Chart Controls
 
 The following example shows how to print a document that contains a Pivot Grid control with an [integrated](https://docs.devexpress.com/WindowsForms/8748/controls-and-libraries/pivot-grid/data-analysis/integration-with-the-chart-control) Chart:
 
