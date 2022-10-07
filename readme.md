@@ -28,3 +28,5 @@ The following example shows how to print a document that contains a Pivot Grid c
 
 - [Pivot Grid for WinForms - Visualize the Pivot Grid data in the Chart Control](https://github.com/DevExpress-Examples/how-to-visualize-pivot-grid-data-via-the-xtracharts-suite-e2911)
 - [Pivot Grid for WinForms - Сustomize Сells in the Exported Excel Document](https://github.com/DevExpress-Examples/winforms-pivotgrid--customize-cells-in-the-exported-excel-document)
+- [WinForms - Customize Pivot Grid Data before Displaying it in the Chart Control](https://github.com/DevExpress-Examples/winforms-customize-pivot-grid-data-before-displaying-it-in-a-chart-control)
+- [WinForms - How to hide unnecessary series from the chart (Pivot Grid - Chart Integration)](https://github.com/DevExpress-Examples/winforms-pivot-chart-integration-hide-unnecessary-series-from-the-chart)
