@@ -32,7 +32,7 @@ The following example shows how to print a document that contains a Pivot Grid c
 - [WinForms - Customize Pivot Grid Data before Displaying it in the Chart Control](https://github.com/DevExpress-Examples/winforms-customize-pivot-grid-data-before-displaying-it-in-a-chart-control)
 - [WinForms - How to Hide Unnecessary Series from the Chart (Pivot Grid - Chart Integration)](https://github.com/DevExpress-Examples/winforms-pivot-chart-integration-hide-unnecessary-series-from-the-chart)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-print-pivot-and-chart-controls&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-print-pivot-and-chart-controls&~~~was_helpful=no)
 
